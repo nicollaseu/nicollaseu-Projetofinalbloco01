@@ -1,4 +1,5 @@
 package commersync.repository;
+import commersync.repository.Interface;
 
 public interface Interface {
 
